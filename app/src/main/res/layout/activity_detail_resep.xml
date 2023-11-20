@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailResep"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/arrowBackImageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="Arrow Back Icon"
+            android:padding="10dp"
+            android:src="@drawable/baseline_arrow_back_24" />
+
+        <ImageView
+            android:id="@+id/imgresep"
+            android:layout_width="match_parent"
+            android:layout_height="313dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/ayamgulai" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ayam Gulai"
+            android:fontFamily="@font/normal"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            android:paddingLeft="10dp"
+            android:textColor="@color/black"
+            android:layout_marginTop="4dp"
+            android:id="@+id/judul"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ayamgulai"
+            android:textSize="16sp"
+            android:fontFamily="@font/medium"
+            android:layout_marginTop="4dp"
+            android:layout_marginHorizontal="16dp"
+            android:id="@+id/desc" />
+    </LinearLayout>
+
+
+
+
+</ScrollView>

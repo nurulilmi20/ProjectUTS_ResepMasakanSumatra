@@ -1,0 +1,303 @@
+<resources>
+    <string name="app_name">RESEP MAKANAN</string>
+    <string name="ayamgulai">
+        Bahan-bahan:\n
+        1/2 kg ayam, dipotong-potong\n
+        1 buah jeruk nipis untuk melumuri ayam\n
+        5 lembar daun jeruk\n
+        4 batang serai, memarkan\n
+        3 sdm kecap manis\n
+        1 sdm air asam jawa\n
+        200 ml air kelapa (bisa menggunakan air biasa)\n
+        \n
+        Bumbu yang dihaluskan:\n
+        10 buah cabe merah\n
+        8 buah cabe rawit merah\n
+        10 siung bawang merah\n
+        4 siung bawang putih\n
+        1 sdt terasi bakar\n
+        2 ruas kunyit bakar\n
+        1 ruas kencur\n
+        4 butir kemiri sangrai\n
+        \n
+        Langkah-langkah:\n
+        1. Lumuri ayam dengan air jeruk nipis dan garam, diamkan selama 10 menit, lalu cuci bersih.\n
+        2. Tumis bumbu yang dihaluskan hingga harum. Tambahkan daun jeruk dan serai, masak hingga harum.\n
+        3. Masukkan potongan ayam, aduk rata.\n
+        4. Tambahkan air, air asam jawa, kecap manis, dan garam. Tutup panci, masak hingga air menyusut.\n
+        5. Panggang ayam sambil diolesi dengan bumbu hingga matang dan berwarna kecokelatan.\n
+        6. Ayam Gulai siap dihidangkan.\n
+        \n
+        Catatan:\n
+        * Sesuaikan rasa garam dan kecap manis sesuai selera.\n
+        * Jika suka, tambahkan potongan kentang atau labu dalam gulai.\n
+        * Sajikan Ayam Gulai dengan nasi hangat untuk pengalaman makan yang lezat.\n
+    </string>
+
+    <string name="Dendeng">
+        Bahan-bahan:\n
+        500 gram daging sapi, iris tipis dan lebar\n
+        2 lembar daun jeruk, iris tipis\n
+        2 batang serai, memarkan\n
+        3 lembar daun salam\n
+        3 cm lengkuas, memarkan\n
+        2 sdm kecap manis\n
+        1 sdm air asam jawa\n
+        Garam secukupnya\n
+        Minyak untuk menggoreng\n
+        \n
+        Bumbu yang dihaluskan:\n
+        5 buah cabe merah\n
+        3 buah cabe rawit merah (sesuai selera pedas)\n
+        6 siung bawang merah\n
+        4 siung bawang putih\n
+        1 ruas kunyit\n
+        1 sdm ketumbar\n
+        1 sdt merica\n
+        1 sdt gula pasir\n
+        \n
+        Langkah-langkah:\n
+        1. Panaskan minyak dalam wajan, tumis bumbu yang dihaluskan hingga harum.\n
+        2. Tambahkan daun jeruk, serai, daun salam, dan lengkuas. Aduk rata.\n
+        3. Masukkan daging sapi, aduk hingga berubah warna.\n
+        4. Tambahkan kecap manis, air asam jawa, dan garam. Aduk rata dan masak hingga daging empuk dan bumbu meresap.\n
+        5. Goreng dendeng dalam minyak panas hingga kering dan renyah. Angkat dan tiriskan.\n
+        6. Sajikan dendeng sumatera sebagai lauk pendamping nasi hangat.\n
+        \n
+        Catatan:\n
+        * Anda bisa menyesuaikan jumlah cabe rawit sesuai selera pedas Anda.\n
+        * Pastikan untuk menggunakan daging sapi yang memiliki serat lebih halus agar hasil dendeng lebih empuk.\n
+        * Simpan dendeng dalam wadah kedap udara setelah dingin untuk menjaga kelembutan dan kelezatannya.\n
+    </string>
+
+    <string name="Ayam_Pop">
+        Bahan-bahan:\n
+        1 kg ayam, potong menjadi bagian sesuai selera\n
+        2 sendok makan air asam jawa\n
+        3 sendok makan kecap manis\n
+        1 sendok makan minyak goreng untuk menumis\n
+        1 sendok teh garam\n
+        1 sendok teh gula pasir\n
+        \n
+        Bumbu yang dihaluskan:\n
+        5 butir bawang merah\n
+        3 siung bawang putih\n
+        3 butir kemiri\n
+        2 cm kunyit\n
+        2 cm jahe\n
+        5 buah cabe merah (sesuai selera)\n
+        \n
+        Langkah-langkah:\n
+        1. Haluskan bumbu yang dihaluskan dengan menggunakan blender atau ulekan.\n
+        2. Panaskan minyak goreng, tumis bumbu halus hingga harum.\n
+        3. Masukkan potongan ayam, aduk rata hingga ayam berubah warna.\n
+        4. Tambahkan air asam jawa, kecap manis, garam, dan gula pasir. Aduk rata.\n
+        5. Masak dengan api sedang hingga ayam matang dan bumbu meresap.\n
+        6. Koreksi rasa sesuai selera.\n
+        7. Angkat dan sajikan Ayam Pop Sumatera dengan nasi hangat.\n
+        \n
+        Catatan:\n
+        * Jika suka pedas, tambahkan jumlah cabe sesuai selera.\n
+        * Anda dapat menyesuaikan jumlah kecap manis, air asam jawa, garam, dan gula sesuai dengan selera dan preferensi Anda.\n
+        * Sajikan dengan nasi putih hangat untuk pengalaman makan yang nikmat.\n
+    </string>
+
+    <string name="Ikan_Asem_Padeh">
+        Bahan-bahan:\n
+        500 gram ikan (gurame, nila, atau ikan laut lainnya), bersihkan dan potong-potong\n
+        2 buah tomat, potong-potong\n
+        2 batang daun bawang, potong-potong\n
+        2 batang serai, memarkan\n
+        3 lembar daun jeruk\n
+        3 lembar daun kunyit, iris halus\n
+        2 ruas lengkuas, memarkan\n
+        5 buah cabe merah, iris serong (sesuai selera)\n
+        3 buah cabe hijau, iris serong (sesuai selera)\n
+        1 sendok makan asam jawa, larutkan dalam sedikit air\n
+        2 sendok makan minyak untuk menumis\n
+        600 ml air kelapa\n
+        Garam secukupnya\n
+        \n
+        Bumbu yang dihaluskan:\n
+        5 butir bawang merah\n
+        3 siung bawang putih\n
+        3 butir kemiri\n
+        2 cm kunyit\n
+        2 cm jahe\n
+        1 sendok teh terasi bakar\n
+        5 buah cabe merah keriting (sesuai selera)\n
+        \n
+        Langkah-langkah:\n
+        1. Tumis bumbu yang dihaluskan dengan minyak hingga harum.\n
+        2. Masukkan daun jeruk, daun kunyit, serai, lengkuas, cabe merah, dan cabe hijau. Tumis hingga layu.\n
+        3. Tambahkan potongan ikan, aduk rata hingga ikan berubah warna.\n
+        4. Tuangkan air kelapa, masak dengan api sedang hingga ikan matang dan bumbu meresap.\n
+        5. Masukkan tomat, daun bawang, dan larutan asam jawa. Aduk rata.\n
+        6. Cicipi, tambahkan garam sesuai selera. Masak hingga bumbu meresap dan ikan benar-benar matang.\n
+        7. Sajikan Ikan Asam Padeh Padang dengan nasi hangat.\n
+        \n
+        Catatan:\n
+        * Jika suka, tambahkan potongan daun melinjo untuk rasa yang khas.\n
+        * Sesuaikan jumlah cabe merah sesuai tingkat kepedasan yang diinginkan.\n
+    </string>
+    <string name="Sate_Padang">
+        Bahan Sate:\n
+        500 gram daging sapi (pilih bagian daging yang empuk), potong dadu kecil\n
+        Tusuk sate, rendam dalam air agar tidak gosong saat dipanggang\n
+        \n
+        Bumbu Marinade:\n
+        3 siung bawang merah, haluskan\n
+        2 siung bawang putih, haluskan\n
+        1 sendok makan ketumbar bubuk\n
+        1 sendok makan jinten bubuk\n
+        1 sendok teh lada bubuk\n
+        2 sendok makan kecap manis\n
+        1 sendok makan minyak goreng\n
+        Garam secukupnya\n
+        \n
+        Bumbu Kacang:\n
+        150 gram kacang tanah, sangrai dan haluskan\n
+        3 siung bawang putih, goreng hingga kecokelatan\n
+        3 buah cabe merah, goreng hingga kecokelatan\n
+        2 sendok makan air asam jawa\n
+        Garam secukupnya\n
+        Gula secukupnya\n
+        Air matang secukupnya\n
+        \n
+        Langkah-langkah:\n
+        1. Campurkan semua bahan marinade, lalu masukkan potongan daging. Diamkan selama beberapa jam agar bumbu meresap.\n
+        2. Tusukkan potongan daging pada tusuk sate yang telah direndam.\n
+        3. Panggang sate di atas panggangan atau grill hingga matang dan berwarna kecokelatan.\n
+        4. Sementara itu, siapkan bumbu kacang. Haluskan bawang putih, cabe merah, dan kacang tanah. Tambahkan air asam jawa, garam, dan gula secukupnya. Aduk rata.\n
+        5. Tambahkan air matang sedikit demi sedikit sambil terus diaduk hingga membentuk pasta kental.\n
+        6. Sajikan sate yang telah matang dengan bumbu kacang di atasnya. Bisa ditambahkan potongan bawang merah dan sepiring nasi hangat.\n
+        \n
+        Catatan:\n
+        * Sate Padang biasanya disajikan dengan ketupat atau lontong, dan kadang-kadang ditambahkan kuah rendang di atasnya.\n
+        * Jangan lupa untuk merendam tusuk sate dalam air sebelum dipanggang agar tidak gosong.\n
+    </string>
+
+    <string name="Rendang">
+        Bahan-bahan:\n
+        500 gram daging sapi (pilih bagian yang berlemak), potong kecil-kecil\n
+        2 lembar daun kunyit\n
+        2 lembar daun jeruk\n
+        2 batang serai, memarkan\n
+        400 ml santan kental dari 1 butir kelapa\n
+        200 ml santan encer dari 1 butir kelapa\n
+        2 sendok makan asam jawa\n
+        Garam secukupnya\n
+        Gula merah secukupnya (sesuai selera)\n
+        \n
+        Bumbu Rendang:\n
+        10 buah cabe merah kering, rebus dan haluskan\n
+        6 butir bawang merah\n
+        4 siung bawang putih\n
+        2 cm jahe\n
+        2 cm lengkuas\n
+        1 sendok teh ketumbar bubuk\n
+        1 sendok teh jinten bubuk\n
+        1 sendok teh merica bubuk\n
+        1 sendok teh bubuk kunyit\n
+        2 sendok makan minyak goreng\n
+        \n
+        Langkah-langkah:\n
+        1. Panaskan minyak dalam wajan, tumis bumbu rendang (cabe merah, bawang merah, bawang putih, jahe, lengkuas, ketumbar bubuk, jinten bubuk, merica bubuk, bubuk kunyit) hingga harum dan matang.\n
+        2. Masukkan potongan daging sapi, aduk rata hingga daging berubah warna.\n
+        3. Tambahkan daun kunyit, daun jeruk, serai, santan kental, dan santan encer. Aduk rata.\n
+        4. Setelah mendidih, tambahkan asam jawa, garam, dan gula merah. Aduk kembali.\n
+        5. Masak rendang dengan api kecil hingga santan mengental, daging menjadi empuk, dan bumbu meresap (biasanya memakan waktu cukup lama, sekitar 2-3 jam).\n
+        6. Sesaat sebelum diangkat, periksa dan sesuaikan rasa. Pastikan santan telah mengental dan berminyak.\n
+        7. Rendang Padang siap disajikan. Sajikan dengan nasi hangat.\n
+
+        Catatan:
+        * Pastikan menggunakan santan yang segar atau santan kental kemasan untuk hasil yang lezat.\n
+        * Penambahan gula merah disesuaikan dengan selera pribadi.\n
+        * Semakin lama dimasak, rendang akan semakin empuk dan bumbunya lebih meresap.\n
+    </string>
+
+    <string name="Mie_Gomak">
+        Bahan Mie:\n
+        200 gram mie kuning (mie telur), rebus hingga matang dan tiriskan\n
+        \n
+        Bahan Kuah Kari:\n
+        500 ml santan dari kelapa parut\n
+        2 lembar daun jeruk\n
+        2 batang serai, memarkan\n
+        2 lembar daun salam\n
+        2 cm lengkuas, memarkan\n
+        2 buah cabai merah, iris halus (sesuai selera)\n
+        2 sdm minyak sayur untuk menumis\n
+        \n
+        Bumbu Halus:\n
+        5 butir bawang merah\n
+        3 siung bawang putih\n
+        2 cm kunyit\n
+        2 cm jahe\n
+        2 butir kemiri\n
+        \n
+        Bahan Pelengkap:\n
+        Telur rebus, belah dua\n
+        Kacang panjang, potong-potong dan rebus\n
+        Kentang, potong dadu dan rebus\n
+        Tauge\n
+        Daun bawang, iris halus\n
+        Bawang goreng\n
+        \n
+        Langkah-langkah:\n
+        1. Panaskan minyak sayur, tumis bumbu halus hingga harum.\n
+        2. Tambahkan daun jeruk, serai, daun salam, lengkuas, dan cabai merah. Tumis hingga layu.\n
+        3. Masukkan santan kelapa, aduk rata, dan masak hingga mendidih sambil terus diaduk agar santan tidak pecah.\n
+        4. Rebus mie kuning hingga matang, tiriskan.\n
+        5. Sajikan mie dalam mangkuk, tuangkan kuah kari di atasnya.\n
+        6. Tambahkan telur rebus, kacang panjang, kentang, tauge, daun bawang, dan bawang goreng sebagai pelengkap.\n
+        7. Mie Gomak siap disajikan.\n
+        \n
+        Catatan:\n
+        * Sesuaikan tingkat kepedasan dengan jumlah cabai yang digunakan.\n
+        * Anda juga bisa menambahkan daging sapi rebus atau daging rendang sebagai tambahan.\n
+    </string>
+
+    <string name="Tunjang">
+        Bahan-bahan:\n
+        500 gram paru sapi, rebus dan potong tipis\n
+        2 lembar daun salam\n
+        2 batang serai, memarkan\n
+        2 cm lengkuas, memarkan\n
+        3 lembar daun jeruk\n
+        2 buah cabai merah, iris halus (sesuai selera)\n
+        2 sendok makan minyak sayur untuk menumis\n
+        1 sendok makan air asam jawa\n
+        Garam secukupnya\n
+        Gula secukupnya\n
+        \n
+        Bumbu yang dihaluskan:\n
+        5 butir bawang merah\n
+        3 siung bawang putih\n
+        3 butir kemiri\n
+        2 cm kunyit\n
+        2 cm jahe\n
+        5 buah cabe merah keriting (sesuai selera)\n
+        \n
+        Langkah-langkah:\n
+        1. Panaskan minyak sayur, tumis bumbu yang dihaluskan hingga harum.\n
+        2. Tambahkan daun salam, serai, lengkuas, dan daun jeruk. Aduk rata.\n
+        3. Masukkan potongan paru sapi, aduk hingga paru berubah warna.\n
+        4. Tambahkan air asam jawa, garam, dan gula secukupnya. Aduk rata.\n
+        5. Masak dengan api sedang hingga bumbu meresap dan paru menjadi empuk.\n
+        6. Koreksi rasa sesuai selera.\n
+        7. Tunjang Padang siap disajikan. Sajikan dengan nasi hangat.\n
+        \n
+        Catatan:\n
+        * Anda bisa menambahkan potongan jengkol atau kentang sebagai variasi.\n
+        * Sesuaikan tingkat kepedasan dengan jumlah cabai yang digunakan.\n
+    </string>
+
+<string name="profile">Aplikasi "Resep Masakan Sumatera" merupakan sebuah aplikasi berbasis Android
+    yang menyediakan kumpulan resep masakan khas Sumatera.\n
+    Tujuan kami membuat aplikasi ini untuk menyelesaikan project UTS, selain itu untuk ikut serta
+    dalam melestarikan kuliner Sumatera dengan membuat resep-resep ini dapat diakses melalui
+    teknologi digital.\n
+    Aplikasi ini dibuat dengan menggunakan bahasa pemrograman Java.
+</string>
+</resources>
